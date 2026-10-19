@@ -1,16 +1,15 @@
-## Hi there 👋
+# @PumaArmfulPogo
 
-<!--
-**PumaArmfulPogo/PumaArmfulPogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Frontend Architect & UI/UX Developer
 
-Here are some ideas to get you started:
+Building pixel-perfect user interfaces, fluid animations, and accessible component design systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+- **Architecture**: Performance optimization, WebGL, responsive design, and state machines
+- **Tooling**: React · Vue · TypeScript · TailwindCSS · Vite · GraphQL · Next.js · Figma
+
+### Notes & Principles
+“Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra
+
+---
+[GitHub Profile](https://github.com/PumaArmfulPogo) · [Repositories](https://github.com/PumaArmfulPogo?tab=repositories)
